@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-css-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An EmberJS add-on that contains CSS-related helpers.",
   "keywords": [
     "ember-addon",
