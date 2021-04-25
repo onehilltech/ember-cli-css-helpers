@@ -1,7 +1,7 @@
 ember-cli-css-helpers
 ==============================================================================
 
-[Short description of the addon.]
+An EmberJS add-on that contains CSS-related helpers
 
 
 Compatibility
@@ -20,11 +20,10 @@ ember install ember-cli-css-helpers
 ```
 
 
-Usage
+Helpers
 ------------------------------------------------------------------------------
 
-[Longer description of how to use the addon in apps.]
-
+* `css-url(url)` - Wraps the URL in the `url()` function 
 
 Contributing
 ------------------------------------------------------------------------------
